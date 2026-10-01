@@ -8,7 +8,7 @@ A thin, idiomatic Clojure wrapper around the JDK's built-in HTTP client
 Requires Java 11+.
 
 ```clojure
-[org.clojars.jj/potoroo "0.1.0-SNAPSHOT"]
+[org.clojars.jj/potoroo "0.1.0"]
 ```
 
 ## Quick start
