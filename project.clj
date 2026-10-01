@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/potoroo "0.1.0"
+(defproject org.clojars.jj/potoroo "0.1.1-SNAPSHOT"
   :description "A thin, idiomatic Clojure wrapper around HttpClient"
   :url "http://example.com/potoroo"
   :license {:name "EPL-2.0"
